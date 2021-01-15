@@ -11,7 +11,7 @@ Desafio feito no Bootcamp  Decola Dev Avanade 2021 da [Digital Innovation One](h
  Nesse desafio foi utilizado a linguagem de programação  C# para resolver alguns exercicios praticos pedidos no Bootcamp
 :hammer_and_wrench: 
 **Tecnologias e ferramentas Utilizadas**
-* VCode
+* VsCode
 * C#
 
 :arrow_down: **Como baixar o projeto**
