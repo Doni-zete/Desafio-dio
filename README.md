@@ -12,14 +12,9 @@ Desafios feito nos Bootcamp  Decola Dev Avanade 2021 da [Digital Innovation One]
 :hammer_and_wrench: 
 **Tecnologias e ferramentas Utilizadas**
 * VsCode
-* C#
+*
 
-:arrow_down: **Como baixar o projeto**
 
-* OBS: É necessário ter o git instalado em sua máquina
-* Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
-
-  ## `git clone https://github.com/Doni-zete/Desafio-dio-C-Sharp.git`
         
         
         
