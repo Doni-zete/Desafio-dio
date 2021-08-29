@@ -1,0 +1,16 @@
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.exe
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.deps.json
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.dll
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\ref\resolver.dll
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\bin\Debug\net5.0\resolver.pdb
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.dll
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\ref\resolver.dll
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.pdb
+E:\FATEC\CURSOS\GITHUB\Desafios-Dio\Desafio-dio\C-Sharp\resolver\resolver\obj\Debug\net5.0\resolver.genruntimeconfig.cache
