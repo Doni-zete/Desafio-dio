@@ -9,7 +9,7 @@ Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:min
 
 using System;
 
-public class pizzaria
+public class tempo
 {
     public static void Main()
     {
