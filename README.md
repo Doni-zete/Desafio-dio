@@ -7,7 +7,41 @@
 * VsCode
 * C#, javascript
 
+<h1 align="center">Desafios e Soluções dos Bootcamps da Digital Innovation One :books:</h1>
 
+<!--Banner session-->
+<p align="center">
+  <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
+</p>
+
+<p align="center">
+  <!-- C# -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp">
+    <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
+  </a>
+  <!-- Java -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java">
+    <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
+  </a>
+  <!-- JavaScript -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript">
+    <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
+  </a>
+  <!-- Kotlin -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin">
+    <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
+  </a>
+  <!-- Python -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python">
+    <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
+  </a>
+  <!-- Ruby -->
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby">
+    <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
+  </a>
+</p><br>
+
+Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
         
 
 
