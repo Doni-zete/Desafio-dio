@@ -51,6 +51,14 @@
 
 
 
+## :computer:**Desafios Introdutórios com C#**
+|**Desafio** | Solução |
+| :--- |  :---: 
+| ✅Tuitando | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20Introdut%C3%B3rios%20com%20C%23/1-Tuitando/solucao.cs) | 
+| ✅DDD | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20Introdut%C3%B3rios%20com%20C%23/2-DDD/solucao.cs) | 
+| ✅Conversão de Tempo | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20Introdut%C3%B3rios%20com%20C%23/3-Convers%C3%A3o%20de%20Tempo/solucao.cs) | 
+
+
 
          
          
