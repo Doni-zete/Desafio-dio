@@ -58,7 +58,14 @@
 | ✅DDD | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20Introdut%C3%B3rios%20com%20C%23/2-DDD/solucao.cs) | 
 | ✅Conversão de Tempo | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20Introdut%C3%B3rios%20com%20C%23/3-Convers%C3%A3o%20de%20Tempo/solucao.cs) | 
 
+Primeiros desafios com C#
 
+## :computer:**Primeiros desafios com C#**
+|**Desafio** | Solução |
+| :--- |  :---: 
+| ✅Mês | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20com%20C%23/1-M%C3%AAs/solucao.cs) | 
+| ✅Quantidade de Números Positivos | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20com%20C%23/2-Quantidade%20de%20N%C3%BAmeros%20Positivos/solucao.cs) | 
+| ✅Validação de Nota | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20com%20C%23/3-Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs) | 
 
          
          
