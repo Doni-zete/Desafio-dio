@@ -5,8 +5,8 @@ Entrada
 Você receberá seis valores, negativos e/ou positivos.
 
 Saída
-Exiba uma mensagem dizendo quantos valores positivos foram lidos. assim como é exibido abaixo no exemplo de saída. Não se esqueça de incluir na mensagem de saída o sufixo " valores positivos", conforme o exemplo abaixo:
-
+Exiba uma mensagem dizendo quantos valores positivos foram lidos. assim como é exibido abaixo no exemplo de saída. 
+Não se esqueça de incluir na mensagem de saída o sufixo " valores positivos", conforme o exemplo abaixo:
  
 Exemplo de Entrada	Exemplo de Saída
 7
