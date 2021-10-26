@@ -11,8 +11,8 @@ Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:min
 
  
 Exemplo de Entrada	Exemplo de Saída
-556						0:9:16
-1						0:0:1
+556						        0:9:16
+1					          	0:0:1
  */
 
 import java.util.Scanner;
