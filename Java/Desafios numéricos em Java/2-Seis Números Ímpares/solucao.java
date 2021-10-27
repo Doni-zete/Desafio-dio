@@ -9,12 +9,12 @@ A saída será uma sequência de seis números ímpares.
 
  
 Exemplo de Entrada	Exemplo de Saída
-8												9
-												11
-												13
-												15
-												17
-												19
+8				9								
+				11								
+				13								
+				15								
+				17								
+				19								
  */
 
 
