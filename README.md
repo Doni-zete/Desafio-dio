@@ -6,8 +6,12 @@
 
 
         
-
-
+<div>
+<ul>
+   <li>
+     <details>
+<summary><mark>Desafios-Dio em C#</mark> ✅</summary>
+    
 ## :computer:**Iniciando aritmética em C#**
 |**Desafio** | Solução |
 | :---: |  :---: | 
@@ -75,6 +79,7 @@
 | ✅Distância | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/1-Dist%C3%A2ncia/solucao.cs) | 
 | ✅Diferença | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/2-Diferen%C3%A7a/solucao.cs) | 
 
-         
-         
 
+</ul>
+                </li>    
+</div>
