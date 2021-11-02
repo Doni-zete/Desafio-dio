@@ -45,6 +45,6 @@ while (X !== 4) {
 // Complete o código nos espaços em branco
 
 print("MUITO OBRIGADO");
-print("Alcool: " + 1);
-print("Gasolina: " + 2);
-print("Diesel: " + 0);
+print("Alcool: " +alcool);
+print("Gasolina: " +gasolina);
+print("Diesel: " +diesel);
