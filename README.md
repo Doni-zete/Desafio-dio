@@ -83,3 +83,18 @@
 </ul>
                 </li>    
 </div>
+ 
+ 
+<div>
+<ul>
+   <li>
+     <details>
+<summary><mark>Desafios-Dio em JavaScript</mark> ✅</summary>
+     
+|**Desafio** | Solução |
+| :---: |  :---: | 
+| ✅Tabuada | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/1-Tabuada/solucao.js) | 
+| ✅Intervalo | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/2-Intervalo/solucao.js) | 
+| ✅Tipo de Combustível | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/3-Tipo%20de%20Combust%C3%ADvel/solucao.js) | 
+
+
