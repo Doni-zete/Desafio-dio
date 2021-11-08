@@ -83,3 +83,28 @@
 </ul>
                 </li>    
 </div>
+ 
+ 
+<div>
+<ul>
+   <li>
+     <details>
+<summary><mark>Desafios-Dio em JavaScript</mark> ✅</summary>
+      
+      
+ ## :computer:**Desafios Iniciais JavaScript**
+|**Desafio** | Solução |
+| :---: |  :---: | 
+| ✅Tabuada | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/1-Tabuada/solucao.js) | 
+| ✅Intervalo | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/2-Intervalo/solucao.js) | 
+| ✅Tipo de Combustível | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Desafios%20Iniciais%20JavaScript/3-Tipo%20de%20Combust%C3%ADvel/solucao.js) | 
+      
+## :computer:**Fundamentos Aritméticos em JavaScript**
+|**Desafio** | Solução |
+| :---: |  :---: | 
+| ✅Quantidade de Números Positivos | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/1-Quantidade%20de%20N%C3%BAmeros%20Positivos/solucao.js) | 
+| ✅Exibindo Números Pares | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/2-Exibindo%20N%C3%BAmeros%20Pares/solucao.js) | 
+| ✅Análise de Números | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/Javascript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/3-An%C3%A1lise%20de%20N%C3%BAmeros/solucao.js) | 
+      
+  
+
