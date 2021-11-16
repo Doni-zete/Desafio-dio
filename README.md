@@ -85,6 +85,15 @@
 | ✅Ho Ho Ho | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/1-Ho%20Ho%20Ho/solucao.cs) | 
 | ✅Pneu | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/2-Pneu/solucao.cs) | 
 | ✅Quadrante | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/3-Quadrante/solucao.cs) | 
+      
+      
+      
+ ## :computer:**Resolvendo desafios Intermediários em C#**
+|**Desafio** | Solução |
+| :--- |  :---: 
+| ✅PUM | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/1-PUM/solucao.cs) | 
+| ✅Polígonos Regulares Simples | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/2-Pol%C3%ADgonos%20Regulares%20Simples/solucao.cs) | 
+| ✅Intervalo 2 | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/3-Intervalo%202/solucao.cs) | 
 
 
 </ul>
