@@ -78,6 +78,13 @@
 | :--- |  :---: 
 | ✅Distância | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/1-Dist%C3%A2ncia/solucao.cs) | 
 | ✅Diferença | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/2-Diferen%C3%A7a/solucao.cs) | 
+      
+## :computer:**Resolvendo Desafios Iniciais em C#**
+|**Desafio** | Solução |
+| :--- |  :---: 
+| ✅Ho Ho Ho | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/1-Ho%20Ho%20Ho/solucao.cs) | 
+| ✅Pneu | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/2-Pneu/solucao.cs) | 
+| ✅Quadrante | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20Desafios%20Iniciais%20em%20C%23/3-Quadrante/solucao.cs) | 
 
 
 </ul>
