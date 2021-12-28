@@ -1,78 +1,54 @@
-﻿/* Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês, com a primeira letra maiúscula.
+﻿/* A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
+
+- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
 
 Entrada
-A entrada contém um único valor inteiro.
+A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
 
 Saída
-Imprima por extenso o nome do mês correspondente ao número existente na entrada, com a primeira letra em maiúscula.
-
- 
-Exemplo de Entrada	Exemplo de Saída
-4
-
-April */
+Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
 
-using System;
 
-public class Problem
-{
-  public static void Main()
-  {
+Exemplos de Entrada    	Exemplos de Saída
+2.00                        A=12.5664
 
-    int mes = int.Parse(Console.ReadLine());
+100.64                      A=31819.3103
 
-    switch (mes)
-    {
-      case 1:
-        Console.WriteLine("January");
-        break;
-      case 2:
-        Console.WriteLine("February");
-        break;
-      case 3:
-        Console.WriteLine("March");
-        break;
-      case 4:
-        Console.WriteLine("April");
-        break;
+150.00                      A=70685.7750 */
 
-      case 5:
-        Console.WriteLine("May");
-        break;
+//  using System;
 
-      case 6:
-        Console.WriteLine("June");
-        break;
+// class Program {
 
-      case 7:
-        Console.WriteLine("july");
-        break;
+//   static void Main(string[] args) {
 
-      case 8:
-        Console.WriteLine("August");
-        break;
+//     double pi = 3.14159; 
+//           double raio = double.Parse(Console.ReadLine());
 
-      case 9:
-        Console.WriteLine("September");
-        break;
-      case 10:
-        Console.WriteLine("October");
-        break;
-      case 11:
-        Console.WriteLine("November");
-        break;
-      case 12:
-        Console.WriteLine("December");
-        break;
+//          double area =pi* (raio*raio);
 
-      //continue o código com sua solução
+//         Console.WriteLine($"A={area.ToString("F4")}");
 
 
-      default:
-        Console.WriteLine("Digite um número válido de 1 a 12");
-        break;
+//   }
+// }
+
+using System; 
+
+class DIO {
+
+    static void Main(string[] args) { 
+
+      double c, S= 0;
+            for ( int n =1; n<=100; n++     )
+            {
+                c =  1/n         ;  //coloque a sua lógica nos espaços em branco
+                S += c     ;
+            }
+            var x=Math.Round(S,2);
+            Console.WriteLine(x    );
+
     }
-    Console.ReadLine();
-  }
+
 }
