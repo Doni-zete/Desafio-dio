@@ -20,6 +20,8 @@ Sao Paulo */
 
 
 //Complete os espaços em branco com o seu código
+
+//Complete os espaços em branco com o seu código
 import java.util.Scanner;
 
 public class solucao {
@@ -37,10 +39,10 @@ public class solucao {
       System.out.printf("Rio de Janeiro\n");
     } else if (a == 32) {
       System.out.printf("Juiz de Fora\n");
-    } else if (a == 71) {
-      System.out.printf("Salvador");
+    } else if (a == 19) {
+      System.out.printf("Campinas\n");
     } else if (a == 27) {
-      System.out.printf("Vitoria");
+      System.out.printf("Vitoria\n");
     } else if (a == 31) {
       System.out.printf("Belo Horizonte\n");
     } else {
