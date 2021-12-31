@@ -94,6 +94,13 @@
 | ✅PUM | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/1-PUM/solucao.cs) | 
 | ✅Polígonos Regulares Simples | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/2-Pol%C3%ADgonos%20Regulares%20Simples/solucao.cs) | 
 | ✅Intervalo 2 | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Resolvendo%20desafios%20Intermedi%C3%A1rios%20em%20C%23/3-Intervalo%202/solucao.cs) | 
+      
+      
+ ## :computer:**Programando em C#**
+|**Desafio** | Solução |
+| :--- |  :---: 
+| ✅2-Quadrado de Pares | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/2-Quadrado%20de%20Pares/solucao.cs) | 
+| ✅3-Sequência S | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/3-Sequ%C3%AAncia%20S/solucao.cs) | 
 
 
 </ul>
