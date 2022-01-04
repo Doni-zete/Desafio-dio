@@ -1,27 +1,40 @@
-using System; 
+/* Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo.
 
-class DIO {
+Entrada
+Não há nenhuma entrada neste problema.
 
-    public void OrdenarBurbleSort(ref int[] array)
+Saída
+Imprima a sequencia conforme exemplo abaixo
+
+ 
+Exemplo de Entrada	Exemplo de Saída
+ 	
+                        I=1 J=7
+                        I=1 J=6
+                        I=1 J=5
+                        I=3 J=7
+                        I=3 J=6
+                        I=3 J=5
+                        ...
+                        I=9 J=7
+                        I=9 J=6
+                        I=9 J=5 */
+
+using System;
+namespace Desafios
+{
+  class solucao
+  {
+    static void Main(string[] args)
     {
-      int temp = 0;
-      for (int i = 0; i < array.Length; i++)
+
+      for (int i = 1; i <= 9; i += 2)
       {
-        for (int j = 0; j < array.Length - 1; j++)
+        for (int j = 7; j >= 5; j--)
         {
-          if (array[j] > array[j + 1])
-          {
-            temp = array[j + 1];
-            array[j + 1] = array[j];
-            array[j] = temp;
-          }
+          Console.WriteLine($"I={i} J={j}");
         }
       }
     }
-    public void ImprimirArray(int[] array)
-    {
-      var linha = string.Join(",", array);
-      System.Console.WriteLine(linha);
-
-    }
+  }
 }
