@@ -103,6 +103,11 @@
 | ✅2-Quadrado de Pares | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/2-Quadrado%20de%20Pares/solucao.cs) | 
 | ✅3-Sequência S | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/3-Sequ%C3%AAncia%20S/solucao.cs) | 
 | ✅4-Sequencia IJ 2 | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/4-Sequencia%20IJ%202/solucao.cs) | 
+| ✅5-Vai Ter Copa | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/5-Vai%20Ter%20Copa/solucao.cs) |
+| ✅6-Sucessor Par | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Programando%20em%20C%23/6-Sucessor%20Par/solucao.cs) |
+      
+     
+      
 
 
 </ul>
