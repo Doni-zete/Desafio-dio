@@ -52,6 +52,7 @@
 | :--- |  :---: 
 | ✅Distância | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/1-Dist%C3%A2ncia/solucao.cs) | 
 | ✅Diferença | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/2-Diferen%C3%A7a/solucao.cs) | 
+| ✅Média 1   | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/3-M%C3%A9dia%201/solucao.cs) | 
 
 
 
@@ -78,6 +79,8 @@
 | :--- |  :---: 
 | ✅Distância | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/1-Dist%C3%A2ncia/solucao.cs) | 
 | ✅Diferença | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/2-Diferen%C3%A7a/solucao.cs) | 
+| ✅Média 1   | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Primeiros%20desafios%20em%20C%23/3-M%C3%A9dia%201/solucao.cs) |   
+      
       
 ## :computer:**Resolvendo Desafios Iniciais em C#**
 |**Desafio** | Solução |
