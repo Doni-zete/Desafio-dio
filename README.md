@@ -112,6 +112,16 @@
       
      
       
+ ## :computer:**Desafios avançados em C#**
+|**Desafio** | Solução |
+| :--- |  :---:       
+| ✅1-Coordenadas de um Ponto | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/1-Coordenadas%20de%20um%20Ponto/solucao.cs) | 
+| ✅2-Média 3 | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/2-M%C3%A9dia%203/solucao.cs) | 
+| ✅3-Tempo de Jogo com Minutos | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/3-Tempo%20de%20Jogo%20com%20Minutos/soluca.cs) | 
+| ✅4-Teorema da Divisão Euclidiana | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/4-Teorema%20da%20Divis%C3%A3o%20Euclidiana/solucao.cs) | 
+| ✅5-Tuitandoa | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/5-Tuitando/solucao.cs) |
+| ✅6-Visita na Feira | [**Código**](https://github.com/Doni-zete/Desafio-dio/blob/master/C-Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/6-Visita%20na%20Feira/solucao.cs) |      
+      
 
 
 </ul>
