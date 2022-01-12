@@ -1,64 +1,76 @@
-﻿/* A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
+﻿/* using System;
 
-- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
+class Desafio
+{
 
-Entrada
-A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
+  public static void Main()
+  {
 
-Saída
-Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+    int tc, x;
+    tc = int.Parse(Console.ReadLine());
+    for (int i = 0; i <= 5; i++)
+    {
+      x = int.Parse(Console.ReadLine());
+      if (x == 0)
+      {
+        Console.WriteLine("NULL");
+      }
+      else if (x % 2 == 0)
+      {
+        if (   )
+        {
+          Console.WriteLine("EVEN POSITIVE");
+        }
+        else
+        {
+          Console.WriteLine("EVEN NEGATIVE");
+        }
 
+      }
+      else
+      {
+        if (   )
+        {
+          Console.WriteLine("ODD POSITIVE");
+        }
+        else
+        {
+          Console.WriteLine("ODD NEGATIVE");
+        }
+      }
 
+    }
 
-Exemplos de Entrada    	Exemplos de Saída
-2.00                        A=12.5664
+    Console.ReadLine();
+  }
 
-100.64                      A=31819.3103
+} */
 
-150.00                      A=70685.7750 */
-
-//  using System;
-
-// class Program {
-
-//   static void Main(string[] args) {
-
-//     double pi = 3.14159; 
-//           double raio = double.Parse(Console.ReadLine());
-
-//          double area =pi* (raio*raio);
-
-//         Console.WriteLine($"A={area.ToString("F4")}");
-
-
-//   }
-// }
 
 using System;
 
-class DIO
+class MinhaClasse
 {
 
-  public void OrdenarBurbleSort(ref int[] array)
-    {
-      int temp = 0;
-      for (int i = 0; i < array.Length; i++)
-      {
-        for (int j = 0; j < array.Length - 1; j++)
-        {
-          if (array[j] > array[j + 1])
-          {
-            temp = array[j + 1];
-            array[j + 1] = array[j];
-            array[j] = temp;
-          }
-        }
-      }
-    }
-    public void ImprimirArray(int[] array)
-    {
-      var linha = string.Join(",", array);
-      System.Console.WriteLine(linha);
+  static void Main(string[] args)
+  {
 
+    string[] selections = Console.ReadLine().Split(' ');
+    int a = int.Parse(selections[0]);
+    int b = int.Parse(selections[1]);
+    int c = int.Parse(selections[2]);
+    int d = int.Parse(selections[3]);
+
+    // Implemente a condição abaixo para ter o resultado esperado
+
+    if (b > c && d > a && c + d > a + b && c > 0 && d > 0 && (a % 2 == 0))
+    {
+
+      Console.WriteLine("Valores aceitos");
     }
+    else
+    {
+      Console.WriteLine("Valores nao aceitos");
+    }
+  }
 }
