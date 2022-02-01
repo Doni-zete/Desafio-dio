@@ -17,19 +17,19 @@ Exemplo de Entrada	Exemplo de Saída
                               41
                               ... */
 
-
 import java.io.IOException;
 import java.util.Scanner;
 
 public class solucao {
-	
-	public static void main(String[] args) throws IOException {
-    	Scanner leitor = new Scanner(System.in);
-    	int N = leitor.nextInt();
-      int count;
-    	for (count=1;count<=10000;count++) {
-    		if (count%N==2     ) System.out.println(count      );
-    	}
-	}
-//Complete com a sua lógica nos espaços em branco	
+
+  public static void main(String[] args) throws IOException {
+    Scanner leitor = new Scanner(System.in);
+    int N = leitor.nextInt();
+
+    for (int i = 0; i < 10000; i++) {
+      if (i % N == 2)
+        System.out.println(i);
+    }
+  }
+  // Complete com a sua lógica nos espaços em branco                                   
 }
