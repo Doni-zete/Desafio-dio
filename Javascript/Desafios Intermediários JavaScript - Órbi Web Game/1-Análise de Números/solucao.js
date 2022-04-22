@@ -20,26 +20,19 @@ Exemplo de Entrada	Exemplo de Saída
   - 4                 3 negativo(s)
     12
  */
-let input = require("fs").readFileSync("stdin", "utf-8");
-let numero = input.split("\n");
+    numero = Array(5);
 
-
-
-numero[0] = gets();
-numero[1] = gets();
-numero[2] = gets();
-numero[3] = gets();
-numero[4] = gets();
-
-
-console.log(numero[0]+numero[1]+numero[2]+numero[3]+numero[4]);
-
-/* pares = numero.filter(value => value % 2 == 0);
-impares = numero.filter(value => value % 2 != 0);
-positivos = numero.filter(value => value > 0);
-negativos = numero.filter(value => value < 0);
-
-console.log(pares.length + " par(es)");
-console.log(impares.length + " impar(es)");
-console.log(positivos.length + " positivo(s)");
-console.log(negativos.length + " negativo(s)"); */
+    numero[0] = gets();
+    numero[1] = gets();
+    numero[2] = gets();
+    numero[3] = gets();
+    numero[4] = gets();
+    
+    pares = numero.filter(value => value % 2 == 0);
+    impares = numero.filter(value => value % 2 != 0);
+    positivos = numero.filter(value => value > 0);
+    negativos = numero.filter(value => value < 0);
+    
+    console.log(pares.length + " par(es)");
+    console.log(impares.length + " impar(es)");
+    console.log(positivos.length + " positivo(s)");
